@@ -37,3 +37,7 @@ Examples:
 $ python getchannels.py -u -c getchannels.conf -l 13.0E -o channels.conf
 ```
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/armando-basile/vdr-getchannels/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
